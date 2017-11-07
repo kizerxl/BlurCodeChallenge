@@ -1,0 +1,6 @@
+framework module Pods_BlurCodeChallenge {
+  umbrella header "Pods-BlurCodeChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}

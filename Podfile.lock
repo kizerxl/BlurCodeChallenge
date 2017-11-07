@@ -1,0 +1,15 @@
+PODS:
+  - FontAwesome.swift (1.0.0)
+  - RevealingSplashView (0.1.0)
+
+DEPENDENCIES:
+  - FontAwesome.swift
+  - RevealingSplashView
+
+SPEC CHECKSUMS:
+  FontAwesome.swift: 2d32a3d62195343c2004b7c9043294ed2948553a
+  RevealingSplashView: 501dd03d975ba2c4165dd463ea1c7c407fb9d13e
+
+PODFILE CHECKSUM: c53d8a849f3347062660bc570748c609719b93b4
+
+COCOAPODS: 1.2.0
